@@ -5,7 +5,9 @@ My journey in tech has been quite an adventure. As an Executive at Tata Consulta
 
 When I'm not coding, you can find me on the cricket field playing, being a right-handed batsman at the 3rd position, I'm known for being quite unyielding at the crease. I also have a bit of a foodie streak—I'm always munching on something. My favorite way to unwind is by reading fiction and horror stories. And if you ever need a laugh (or a groan), I'm your guy—I love making bad jokes and keeping things light-hearted.
 
-Fun Fact about me : I can eat whole day and won't gain a single pound :) .
+Fun Fact about me : I can eat whole day and won't gain a single pound :) 
+
+Visit my [Portfolio](https://anshul-kumar-portfolio.netlify.app/)
 
 ## My Best Works:
 
