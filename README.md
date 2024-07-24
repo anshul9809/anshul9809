@@ -7,6 +7,12 @@ When I'm not coding, you can find me on the cricket field playing, being a right
 
 Fun Fact about me : I can eat whole day and won't gain a single pound :) .
 
+## My Best Works:
+
+1. [Dynamic Portfolio](https://github.com/anshul9809/Dashboard)
+2. [Notes App](https://github.com/anshul9809/NotesApp)
+3. [Shopsphere-e-commerce-backend-api](https://github.com/anshul9809/shopsphere-backend-api)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/anshulkumar.kumar.9809) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/kumar.anshul9809) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anshul-kumar-949063196/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/anshul9809) 
