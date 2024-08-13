@@ -9,6 +9,9 @@ Fun Fact about me : I can eat whole day and won't gain a single pound :)
 
 Visit my [Portfolio](https://anshul-kumar-portfolio.netlify.app/)
 
+## My latest Work
+[Asset Trader Backend APIs](https://github.com/anshul9809/asset-trader)
+
 ## My Best Works:
 
 1. [Dynamic Portfolio](https://github.com/anshul9809/Dashboard)
